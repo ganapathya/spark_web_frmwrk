@@ -1,1 +1,1 @@
-web:    java -cp target/classes* SparkServer
+web: java -jar ./target/myspark-jar-with-dependencies.jar
