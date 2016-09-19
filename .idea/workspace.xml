@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cd975d5-2899-4be2-ad4b-94ce0b032973" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myspark_web.iml" afterPath="$PROJECT_DIR$/myspark_web.iml" />
     </list>
     <ignored path="myspark_web.iws" />
     <ignored path=".idea/workspace.xml" />
