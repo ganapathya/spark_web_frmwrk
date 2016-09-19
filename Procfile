@@ -1,1 +1,1 @@
-web: java -jar -cp /target/* ./target/myspark-jar-with-dependencies.jar
+web: java -jar ./target/myspark-jar-with-dependencies.jar
